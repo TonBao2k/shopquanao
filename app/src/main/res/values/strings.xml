@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">shopquanao</string>
+    <string name="API">/192.168.1.8</string>
+</resources>
